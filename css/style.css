@@ -136,7 +136,7 @@ footer p {
 /* Landscape */
 @media(max-height: 500px) {
   .header-content .title, .header-content .text {
-    display: none;
+    /*display: none;*/
   }
   .header-content {
     top: 0;
